@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Genius%20Hance&fontSize=120&animation=blinking)
-# There are many human with a gift but I'm the fool  
+# There are many humans with a gift but I'm the fool  
 
 <br/>
 
