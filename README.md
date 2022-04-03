@@ -8,8 +8,6 @@
 > 
 > • Feb 25th, 1998
 > 
-> • Korea Polytechnic univ
-> 
 > • Major - Software Engineering
 > 
 > • newbie still now
