@@ -1,12 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Genius%20Hance&fontSize=120&animation=blinking)
-# There are many people with a gift but I'm the fool  
-
 <br/>
 
-###### HAND everybody 
+#### 열정 열정 열정
 
 <br/>
-
 
 > • Kim HyunSu
 > 
