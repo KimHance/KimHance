@@ -11,6 +11,12 @@
 <a href="https://kimansu.medium.com">
   <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Medium&logoColor=white&link=https://kimansu.medium.com"/>
 </a>
+</a>
+<a href="https://sapphire-barracuda-338.notion.site/Wanna-B-Android-Developer-bf8dac12aae54ddcbaec787a110ce1c0">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://https://sapphire-barracuda-338.notion.site/Wanna-B-Android-Developer-bf8dac12aae54ddcbaec787a110ce1c0"/>
+</a>
+
+
 
 
 
